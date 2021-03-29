@@ -1,0 +1,6 @@
+numpy==1.20.1
+matplotlib==3.3.4
+h5py==3.2.1
+keras==2.4.3
+pyret==0.6.0
+tensorflow==2.4.1
